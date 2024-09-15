@@ -1,0 +1,31 @@
+/* Write your CSS here */
+.cart-summery {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-end;
+}
+.cart-summery-head {
+  color: #616e7c;
+  font-size: 20px;
+}
+.cart-summery-para {
+  color: #616e7c;
+  font-size: 18px;
+  font-weight: 500;
+}
+.cart-summery-span {
+  font-weight: 700;
+  color: #171f46;
+  font-size: 22px;
+}
+.cart-summery-btn {
+  background-color: #0b69ff;
+  color: #fff;
+  width: 100%;
+  padding: 10px;
+  border: 0px;
+  border-radius: 10px;
+  font-size: 14px;
+  font-weight: 500;
+}
